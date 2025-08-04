@@ -14,3 +14,31 @@ Sales Insights Dashboard:
 
 Visualizes regional sales performance, customer segmentation, and revenue growth. Identified high-opportunity areas, contributing to a 12% increase in sales.
 Both dashboards use advanced DAX functions, interactive visuals, and data modeling best practices for high-impact storytelling and decision support.
+
+
+This repository showcases two dynamic business intelligence dashboards developed in Power BI:
+
+HR Dashboard:
+
+Analyzes employee attrition, satisfaction, and department-wise trends to support HR in improving retention strategies. Helped reduce employee turnover by 10% through actionable insights.
+
+Sales Insights Dashboard:
+
+Visualizes regional sales performance, customer segmentation, and revenue growth. Identified high-opportunity areas, contributing to a 12% increase in sales.
+
+hr-sales-dashboards/
+│
+├── HR_Dashboard 
+│├── HR_Dashboard.pbix 
+│ ├── HR_DAX_Measures.txt 
+│ └── Screenshots/
+│ ├── hr_overview.png
+│ └── attrition_trends.png
+│ ├── Sales_Dashboard/ 
+│ ├── Sales_Insights.pbix
+│ ├── Sales_DAX_Measures.txt 
+│ └── Screenshots/ 
+│ ├── sales_overview.png
+│ └── regional_trends.png
+├── README.md
+
